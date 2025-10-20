@@ -1,5 +1,7 @@
 # ROBOTECHI SmartHub App
 
+<img src="screenshots/inventorypg.png"> 
+
 #### Overview:
 
 RoboTechi is a cutting-edge technology startup dedicated to empowering innovators, hobbyists, and professionals through high-quality developer boards and electronic components. 
