@@ -15,7 +15,6 @@ Test Application.
 
 
 # Future Addons
-- Allow users to add, update and delete members to the database
 - Add data visualization pg showing highest and lowest paying customers, highest product sold, and highest paying members.
 
 
